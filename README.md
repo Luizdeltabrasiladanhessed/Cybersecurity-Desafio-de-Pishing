@@ -5,7 +5,7 @@
 - Sistema - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux para execução da tarefa
+### Configurando o Phishing no Kali Linux Para Execução da Tarefa
 
 - Acessar root: ``` sudo su ```
 - Iniciar o setoolkit: ``` setoolkit ```
